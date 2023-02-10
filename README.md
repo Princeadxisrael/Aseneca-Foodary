@@ -1,3 +1,9 @@
+#Hosting and Preview
+
+Aseneca's Foodary is a community web app for sharing recipes among community members
+
+This web app is hosted on firebase and can be previewed with https://aseneca-19022.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
